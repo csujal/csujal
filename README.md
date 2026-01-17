@@ -7,24 +7,24 @@ Hi there 👋
 ✨ Competencies: C#, ASP.NET Core, Angular 20, TypeScript, JavaScript, Azure, Azure DevOps, REST APIs, Docker, SQL Server, Entity Framework, GitHub Actions, CQRS, Multithreading
 
 🌱 My Latest Projects  
-ChandrahasaSujal/fullstack-servicebus-handler – Azure Service Bus | .NET Core | Retry & Dead Lettering | CI/CD  
-ChandrahasaSujal/angular-admin-template – Angular 15+ | Standalone Components | Lazy Loading  
-ChandrahasaSujal/dotnet-clean-arch-starter – Clean Architecture | CQRS | ASP.NET Core | EF Core  
+CSujal/fullstack-servicebus-handler – Azure Service Bus | .NET Core | Retry & Dead Lettering | CI/CD  
+CSujal/angular-admin-template – Angular 15+ | Standalone Components | Lazy Loading  
+CSujal/dotnet-clean-arch-starter – Clean Architecture | CQRS | ASP.NET Core | EF Core  
 
 🌱 My Angular Projects  
-ChandrahasaSujal/angular-change-detection-demo – Change Detection Strategies | Angular 15  
-ChandrahasaSujal/angular-standalone-routing – Standalone Routing | Angular 15  
-ChandrahasaSujal/angular-api-versioning-ui – Angular UI with API Versioning Backend Integration
+CSujal/angular-change-detection-demo – Change Detection Strategies | Angular 15  
+CSujal/angular-standalone-routing – Standalone Routing | Angular 15  
+CSujal/angular-api-versioning-ui – Angular UI with API Versioning Backend Integration
 
 🌱 My C# / .NET Projects  
-ChandrahasaSujal/dotnet-api-versioning – API Versioning in ASP.NET Core  
-ChandrahasaSujal/cancellation-token-demo – Async/Await | Cancellation Token | Parallel Tasks  
-ChandrahasaSujal/azure-keyvault-config – Azure Key Vault + Managed Identity | .NET Core
+CSujal/dotnet-api-versioning – API Versioning in ASP.NET Core  
+CSujal/cancellation-token-demo – Async/Await | Cancellation Token | Parallel Tasks  
+CSujal/azure-keyvault-config – Azure Key Vault + Managed Identity | .NET Core
 
 🔭 My Other Projects  
-ChandrahasaSujal/async-patterns-demo – Task-based Asynchronous Pattern in .NET  
-ChandrahasaSujal/docker-dotnet-app – .NET 6 + Docker | Azure-ready  
-ChandrahasaSujal/ef-core-lab – Entity Framework Core | Code First | LINQ | Migrations
+CSujal/async-patterns-demo – Task-based Asynchronous Pattern in .NET  
+CSujal/docker-dotnet-app – .NET 6 + Docker | Azure-ready  
+CSujal/ef-core-lab – Entity Framework Core | Code First | LINQ | Migrations
 
 📜 My Recent Blog Posts  
 ✅ API Versioning in ASP.NET Core – June 2024  
